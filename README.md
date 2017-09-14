@@ -1,2 +1,2 @@
 # ML_codes_books
-somce books about machine learning and codes
+somce books and codes about machine learning
